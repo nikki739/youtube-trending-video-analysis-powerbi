@@ -151,28 +151,6 @@ Summarizes key findings, recommendations, KPI insights, and future enhancement o
 
 ---
 
-## Repository Structure
-
-```text
-youtube-trending-video-analysis-powerbi/
-│
-├── dashboard_screenshots/
-│   ├── 01_executive_dashboard.png
-│   ├── 02_audience_engagement_dashboard.png
-│   ├── 03_content_performance_dashboard.png
-│   └── 04_conclusion_dashboard.png
-│
-├── Dataset/
-│
-├── Power BI File/
-│
-├── Report/
-│
-└── README.md
-```
-
----
-
 ## Author
 
 **Nikita Oli**
