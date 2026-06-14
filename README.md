@@ -51,17 +51,13 @@ Summarizes findings, recommendations, and future scope.
 ## Dashboard Preview
 
 ### Executive Dashboard
-
-![Executive Dashboard](Dashboard%20Screenshots/01_Executive%20Dashboard.png)
+![Executive Dashboard](./dashboard_screenshots/01_executive_dashboard.png)
 
 ### Audience & Engagement Dashboard
-
-![Audience Dashboard](Dashboard%20Screenshots/02_Audience%20Engagement%20Dashboard.png)
+![Audience Dashboard](./dashboard_screenshots/02_audience_engagement_dashboard.png)
 
 ### Content Performance Dashboard
-
-![Content Dashboard](Dashboard%20Screenshots/03_Content%20Performance%20Dashboard.png)
+![Content Dashboard](./dashboard_screenshots/03_content_performance_dashboard.png)
 
 ### Conclusion Dashboard
-
-![Conclusion Dashboard](Dashboard%20Screenshots/04_Conclusion%20Dashboard.png)
+![Conclusion Dashboard](./dashboard_screenshots/04_conclusion_dashboard.png)
